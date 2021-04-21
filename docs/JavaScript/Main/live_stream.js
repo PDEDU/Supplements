@@ -1,0 +1,1 @@
+$(".section2").animate({opacity:"0.99"},768);const player=videojs("my_video_1");player.src({src:"index.m3u8",type:"application/x-mpegURL"});
